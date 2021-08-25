@@ -1,0 +1,29 @@
+/* html{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.089), rgba(253, 253, 253, 0.473)),
+                      url(/style/1232.jpg);
+                      background-repeat: no-repeat, repeat;     
+                     background-size: cover;           
+} */
+/* *{
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+
+#prof-photo{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+header{
+    text-align: center;
+}
+.exp__comp, .edu__ins {
+    color: green;
+}
+/* footer {
+    text-decoration: none;
+    color: blue;
+} */
+.box{
+    margin-bottom: 5px;
+}
